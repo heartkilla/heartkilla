@@ -1,2 +1,1 @@
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aruchomu/competition)
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aruchomu/competition/light)
